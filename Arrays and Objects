@@ -6,4 +6,4 @@ let ins = {
 
 Object.keys(ins)
 Object.entries(ins)
-ins.hasOwnProperty("firstName")
+ins.hasOwnProperty("firstName");
