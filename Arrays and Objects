@@ -1,0 +1,9 @@
+let ins = {
+    firstName:"Kelly",
+    isInstructor: true,
+    favoriteNumber: [1,2,3,4]
+}
+
+Object.keys(ins)
+Object.entries(ins)
+ins.hasOwnProperty("firstName")
